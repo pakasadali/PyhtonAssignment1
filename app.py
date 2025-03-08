@@ -26,7 +26,6 @@ st.markdown(
 
 st.title('Unit Converter 🔄')
 st.subheader("A Unit Converter to convert all the Units")
-st.write("Select which Unit to Convert")
 
 categories = {
     "Length": ["meter", "kilometer", "centimeter", "millimeter", "mile", "yard", "foot", "inch"],
