@@ -18,7 +18,7 @@ st.set_page_config(page_title="Unit Converter", layout="wide")
 st.markdown(
     """
     <style>
-        .stApp { background-color: #ff00ff; }
+        .stApp { background-color: #1ACFD6; }
     </style>
     """, 
     unsafe_allow_html=True
